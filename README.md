@@ -1,0 +1,1 @@
+script to write custom messages to the leaderboard of Red Bull's [Album Art IQ](http://albumartiq.redbull.com/). Deprecated as a ReCaptcha was added to prevent flooding.
