@@ -1,7 +1,7 @@
 # Albumart-Buster
 **NOTE: The DE script is deprecated because reCaptcha was added. The US script is still functional as of 2018-10-09.**
 ## Description
-script to write custom messages to the leaderboard of Red Bull's [German](http://albumartiq.redbull.com/) and [US](https://daily.redbullmusicacademy.com/) Album Art IQ.
+script to write custom messages to the leaderboard of Red Bull's [German](http://albumartiq.redbull.com/) and [US](https://daily.redbullmusicacademy.com/specials/2016-album-art-iq/#) Album Art IQ.
 ## Usage
 Show overall top ten:
 ```bash
