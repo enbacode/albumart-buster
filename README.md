@@ -15,7 +15,7 @@ Post a specific name and score to a genre:
 ```bash
 python bust_en.py post <name> <score> <genre>
 ```
-Post a specific name and score to a genre:
+Write a text to a genre leaderbord (text is splitted automatically):
 ```bash
 python bust_en.py post <genre> "<text>"
 ```
