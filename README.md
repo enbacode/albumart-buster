@@ -17,7 +17,7 @@ python bust_en.py post <name> <score> <genre>
 ```
 Write a text to a genre leaderbord (text is splitted automatically):
 ```bash
-python bust_en.py post <genre> "<text>"
+python bust_en.py write <genre> "<text>"
 ```
 Write a twitter feed to a category (updates every 30 seconds):
 ```bash
